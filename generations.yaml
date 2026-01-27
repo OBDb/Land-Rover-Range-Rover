@@ -1,0 +1,43 @@
+references:
+  - "https://en.wikipedia.org/wiki/Range_Rover"
+
+generations:
+  - name: "First Generation (Classic)"
+    start_year: 1970
+    end_year: 1996
+    description: "The original Range Rover, known as the 'Range Rover Classic'. Produced from 1970 to 1996, it was available initially as a 2-door until 1981 when the 4-door model was introduced. Featured body-on-frame design with coil springs, permanent four-wheel drive, and four-wheel disc brakes. Originally powered by various Rover V8 engines and diesel engines. The classic served as the basis for the Discovery and the second-generation Range Rover."
+    platform: "Ladder frame chassis"
+
+  - name: "Second Generation (P38A)"
+    start_year: 1996
+    end_year: 2001
+    description: "The second-generation Range Rover, model designation P38A, introduced for the 1996 model year. Based on the LWB chassis of the Classic with an updated Rover V8 engine or a 2.5-litre BMW six-cylinder turbo-diesel with Bosch injection pump - the first diesel with electronic controls in a Land Rover. This was a result of BMW's ownership of Rover Group. Last model to use the Rover V8 and interior leather supplied by Connolly."
+    platform: "P38A platform"
+
+  - name: "Third Generation (L322)"
+    start_year: 2001
+    end_year: 2012
+    description: "The third-generation Range Rover, model designation L322, introduced in 2001. Saw the model move further upmarket with shared components and systems from BMW 7 Series (E38) and later BMW 5 Series (E39). Three distinct periods within this generation: 2001-2005 with BMW V8, 2006-2009 with Jaguar-derived engines, and 2010-2012 with the new AJ133 5.0L engine. Received facelifts in 2006 (front fascia, lighting) and 2010 (new fascia, tail lamps, new engines)."
+    platform: "L322 platform"
+    variants:
+      - name: "L322 Phase 1 (2001-2005)"
+        start_year: 2001
+        end_year: 2005
+      - name: "L322 Phase 2 (2006-2009)"
+        start_year: 2006
+        end_year: 2009
+      - name: "L322 Phase 3 (2010-2012)"
+        start_year: 2010
+        end_year: 2012
+
+  - name: "Fourth Generation (L405)"
+    start_year: 2012
+    end_year: 2021
+    description: "The fourth-generation Range Rover, codenamed L405, exhibited at the 2012 Paris Motor Show. First production 4x4 SUV with an all-aluminium monocoque unitary body structure, reducing weight significantly compared to its steel unibody predecessor. Range Rover Hybrid (diesel) unveiled at 2013 Frankfurt Motor Show, followed by Plug-in Hybrid in 2018."
+    platform: "L405 aluminum platform"
+
+  - name: "Fifth Generation"
+    start_year: 2022
+    end_year: null
+    description: "The fifth-generation Range Rover revealed on October 26, 2021. Features a range of mild hybrid diesel and petrol engines, with plug-in hybrids introduced in early 2022. First from JLR to use an engine developed under the BMW-JLR combustion and electrified powertrain partnership, including a 4.4L BMW/JLR V8 engine. All-electric model announced for 2025."
+    platform: "MLA-Flex platform"
