@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F445
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_THROTTLE_REL: 0.39216
+  response: 7E80462F44501
+- expected_values:
+    RR_RANGE_ROVER_THROTTLE_REL: 24.31373
+  response: 7E80462F4453E

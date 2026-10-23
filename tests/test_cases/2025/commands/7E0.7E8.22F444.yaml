@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F444
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_EQ_RATIO: 0.85254
+  response: 7E80562F4446D20
+- expected_values:
+    RR_RANGE_ROVER_EQ_RATIO: 0.96875
+  response: 7E80562F4447C00
+- expected_values:
+    RR_RANGE_ROVER_EQ_RATIO: 1.9999
+  response: 7E80562F444FFFF

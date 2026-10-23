@@ -1,0 +1,8 @@
+command_id: 726.22FD2A
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_BRAKE: 0
+  response: 72E0462FD2A00
+- expected_values:
+    RR_RANGE_ROVER_BRAKE: 1
+  response: 72E0462FD2AFF

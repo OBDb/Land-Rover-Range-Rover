@@ -1,0 +1,8 @@
+command_id: 761.769.22D11C
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_D11C_RAW: 61
+  response: 7690462D11C3D
+- expected_values:
+    RR_RANGE_ROVER_D11C_RAW: 77
+  response: 7690462D11C4D

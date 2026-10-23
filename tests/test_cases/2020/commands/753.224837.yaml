@@ -1,0 +1,8 @@
+command_id: '753.224837'
+test_cases:
+- expected_values:
+    RR_DCDC_HV_V_IN: 16
+  response: 75B056248370010
+- expected_values:
+    RR_DCDC_HV_V_IN: 96
+  response: 75B056248370060

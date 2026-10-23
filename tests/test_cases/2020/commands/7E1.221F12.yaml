@@ -1,0 +1,8 @@
+command_id: 7E1.221F12
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_TQ_CONV_T: 26
+  response: 7E904621F1221
+- expected_values:
+    RR_RANGE_ROVER_TQ_CONV_T: 100
+  response: 7E904621F1246

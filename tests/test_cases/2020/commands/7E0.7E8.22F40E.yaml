@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40E
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_SPARK_ADV: -25
+  response: 7E80462F40E4E
+- expected_values:
+    RR_RANGE_ROVER_SPARK_ADV: 43.5
+  response: 7E80462F40ED7

@@ -1,0 +1,8 @@
+command_id: 726.72E.22DD09
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_VSS_726: 0
+  response: 72E0462DD0900
+- expected_values:
+    RR_RANGE_ROVER_VSS_726: 80
+  response: 72E0462DD0950

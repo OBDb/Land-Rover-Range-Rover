@@ -1,0 +1,23 @@
+command_id: 753.22420A
+test_cases:
+- expected_values:
+    RR_DCDC_V_OUT: 13.1
+  response: 75B0462420A83
+- expected_values:
+    RR_DCDC_V_OUT: 13.2
+  response: 75B0462420A84
+- expected_values:
+    RR_DCDC_V_OUT: 14
+  response: 75B0462420A8C
+- expected_values:
+    RR_DCDC_V_OUT: 14.1
+  response: 75B0462420A8D
+- expected_values:
+    RR_DCDC_V_OUT: 14.2
+  response: 75B0462420A8E
+- expected_values:
+    RR_DCDC_V_OUT: 14.3
+  response: 75B0462420A8F
+- expected_values:
+    RR_DCDC_V_OUT: 14.4
+  response: 75B0462420A90

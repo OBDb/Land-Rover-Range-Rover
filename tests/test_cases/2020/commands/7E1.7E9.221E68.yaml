@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221E68
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_1E68_RAW: null
+  response: 7E904621E6800
+- expected_values:
+    RR_RANGE_ROVER_1E68_RAW: 1
+  response: 7E904621E6801
+- expected_values:
+    RR_RANGE_ROVER_1E68_RAW: 65
+  response: 7E904621E6841

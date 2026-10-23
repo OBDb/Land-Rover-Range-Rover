@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_MAP: 30
+  response: 7E80462F40B1E
+- expected_values:
+    RR_RANGE_ROVER_MAP: 100
+  response: 7E80462F40B64

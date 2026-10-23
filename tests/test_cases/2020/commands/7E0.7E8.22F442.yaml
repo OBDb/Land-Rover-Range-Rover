@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F442
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_BAT_V: 12.54
+  response: 7E80562F44230FC
+- expected_values:
+    RR_RANGE_ROVER_BAT_V: 14.34
+  response: 7E80562F4423804
+- expected_values:
+    RR_RANGE_ROVER_BAT_V: 14.9
+  response: 7E80562F4423A34

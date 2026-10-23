@@ -1,0 +1,11 @@
+command_id: '753.224208'
+test_cases:
+- expected_values:
+    RR_DCDC_CUR_OUT: 507
+  response: 75B0562420801FB
+- expected_values:
+    RR_DCDC_CUR_OUT: 509
+  response: 75B0562420801FD
+- expected_values:
+    RR_DCDC_CUR_OUT: 552
+  response: 75B056242080228

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_ODO: 54262
+  response: 7E80662DD0100D3F6
+- expected_values:
+    RR_RANGE_ROVER_ODO: 54270
+  response: 7E80662DD0100D3FE
+- expected_values:
+    RR_RANGE_ROVER_ODO: 54273
+  response: 7E80662DD0100D401

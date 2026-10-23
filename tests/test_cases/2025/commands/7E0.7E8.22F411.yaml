@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F411
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_THROTTLE_POS: 12.94118
+  response: 7E80462F41121
+- expected_values:
+    RR_RANGE_ROVER_THROTTLE_POS: 30.58824
+  response: 7E80462F4114E

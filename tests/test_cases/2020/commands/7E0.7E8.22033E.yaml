@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22033E
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_FUEL_RAIL_P: 2856
+  response: 7E80562033E0B28
+- expected_values:
+    RR_RANGE_ROVER_FUEL_RAIL_P: 4864
+  response: 7E80562033E1300
+- expected_values:
+    RR_RANGE_ROVER_FUEL_RAIL_P: 7679
+  response: 7E80562033E1DFF
+- expected_values:
+    RR_RANGE_ROVER_FUEL_RAIL_P: 18986
+  response: 7E80562033E4A2A

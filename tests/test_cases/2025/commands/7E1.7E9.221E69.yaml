@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221E69
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_GEARBOX_OIL_TEMP: 24
+  response: 7E904621E6940
+- expected_values:
+    RR_RANGE_ROVER_GEARBOX_OIL_TEMP: 63
+  response: 7E904621E6967

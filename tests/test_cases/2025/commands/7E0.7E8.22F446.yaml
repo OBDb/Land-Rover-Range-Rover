@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F446
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_AMBIENT_TEMP: 11
+  response: 7E80462F44633
+- expected_values:
+    RR_RANGE_ROVER_AMBIENT_TEMP: 12
+  response: 7E80462F44634
+- expected_values:
+    RR_RANGE_ROVER_AMBIENT_TEMP: 14
+  response: 7E80462F44636
+- expected_values:
+    RR_RANGE_ROVER_AMBIENT_TEMP: 15
+  response: 7E80462F44637
+- expected_values:
+    RR_RANGE_ROVER_AMBIENT_TEMP: 16
+  response: 7E80462F44638
+- expected_values:
+    RR_RANGE_ROVER_AMBIENT_TEMP: 17
+  response: 7E80462F44639
+- expected_values:
+    RR_RANGE_ROVER_AMBIENT_TEMP: 18
+  response: 7E80462F4463A
+- expected_values:
+    RR_RANGE_ROVER_AMBIENT_TEMP: 20
+  response: 7E80462F4463C
+- expected_values:
+    RR_RANGE_ROVER_AMBIENT_TEMP: 22
+  response: 7E80462F4463E
+- expected_values:
+    RR_RANGE_ROVER_AMBIENT_TEMP: 23
+  response: 7E80462F4463F

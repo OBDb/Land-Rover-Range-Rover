@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_WARMUPS: 37
+  response: 7E80462F43025
+- expected_values:
+    RR_RANGE_ROVER_WARMUPS: 45
+  response: 7E80462F4302D
+- expected_values:
+    RR_RANGE_ROVER_WARMUPS: 49
+  response: 7E80462F43031
+- expected_values:
+    RR_RANGE_ROVER_WARMUPS: 50
+  response: 7E80462F43032
+- expected_values:
+    RR_RANGE_ROVER_WARMUPS: 59
+  response: 7E80462F4303B
