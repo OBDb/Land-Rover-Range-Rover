@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_RPM: 701
+  response: 7E80562F40C0AF4
+- expected_values:
+    RR_RANGE_ROVER_RPM: 705
+  response: 7E80562F40C0B04
+- expected_values:
+    RR_RANGE_ROVER_RPM: 1599.5
+  response: 7E80562F40C18FE
+- expected_values:
+    RR_RANGE_ROVER_RPM: 2083.5
+  response: 7E80562F40C208E

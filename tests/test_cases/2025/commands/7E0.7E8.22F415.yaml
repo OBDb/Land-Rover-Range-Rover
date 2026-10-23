@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F415
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_O2_S2_VOLTAGE: 0
+  response: 7E80562F41500FF
+- expected_values:
+    RR_RANGE_ROVER_O2_S2_VOLTAGE: 0.845
+  response: 7E80562F415A9FF

@@ -1,0 +1,17 @@
+command_id: 753.22DD02
+test_cases:
+- expected_values:
+    RR_12V_BATTERY: 13.25
+  response: 75B0462DD0235
+- expected_values:
+    RR_12V_BATTERY: 13.5
+  response: 75B0462DD0236
+- expected_values:
+    RR_12V_BATTERY: 14
+  response: 75B0462DD0238
+- expected_values:
+    RR_12V_BATTERY: 14.25
+  response: 75B0462DD0239
+- expected_values:
+    RR_12V_BATTERY: 63.75
+  response: 75B0462DD02FF

@@ -1,0 +1,14 @@
+command_id: 751.759.222076
+test_cases:
+- expected_values:
+    RR_TP_FL: 2.52632
+  response: 7590562207600B8
+- expected_values:
+    RR_TP_FL: 2.55378
+  response: 7590562207600BA
+- expected_values:
+    RR_TP_FL: 2.58124
+  response: 7590562207600BC
+- expected_values:
+    RR_TP_FL: 2.6087
+  response: 7590562207600BE

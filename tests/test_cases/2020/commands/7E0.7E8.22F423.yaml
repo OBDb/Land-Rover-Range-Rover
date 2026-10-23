@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F423
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_FUEL_RAIL_GAUGE_P: 2470
+  response: 7E80562F42300F7
+- expected_values:
+    RR_RANGE_ROVER_FUEL_RAIL_GAUGE_P: 5110
+  response: 7E80562F42301FF
+- expected_values:
+    RR_RANGE_ROVER_FUEL_RAIL_GAUGE_P: 5120
+  response: 7E80562F4230200
+- expected_values:
+    RR_RANGE_ROVER_FUEL_RAIL_GAUGE_P: 24190
+  response: 7E80562F4230973

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F401
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_MONITOR_STATUS: 517376
+  response: 7E80762F4010007E500

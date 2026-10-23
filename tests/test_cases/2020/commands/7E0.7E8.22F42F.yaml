@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_FUEL_LEVEL: 31.76471
+  response: 7E80462F42F51
+- expected_values:
+    RR_RANGE_ROVER_FUEL_LEVEL: 59.60784
+  response: 7E80462F42F98

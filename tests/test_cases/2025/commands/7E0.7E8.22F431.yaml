@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_DIST_SINCE_CLR: 846
+  response: 7E80562F431034E
+- expected_values:
+    RR_RANGE_ROVER_DIST_SINCE_CLR: 1033
+  response: 7E80562F4310409
+- expected_values:
+    RR_RANGE_ROVER_DIST_SINCE_CLR: 1036
+  response: 7E80562F431040C
+- expected_values:
+    RR_RANGE_ROVER_DIST_SINCE_CLR: 1112
+  response: 7E80562F4310458
+- expected_values:
+    RR_RANGE_ROVER_DIST_SINCE_CLR: 1115
+  response: 7E80562F431045B
+- expected_values:
+    RR_RANGE_ROVER_DIST_SINCE_CLR: 1118
+  response: 7E80562F431045E
+- expected_values:
+    RR_RANGE_ROVER_DIST_SINCE_CLR: 1343
+  response: 7E80562F431053F

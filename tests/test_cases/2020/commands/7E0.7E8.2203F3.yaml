@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203F3
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_ENGINE_OIL_TEMP: 27
+  response: 7E8046203F343
+- expected_values:
+    RR_RANGE_ROVER_ENGINE_OIL_TEMP: 103
+  response: 7E8046203F38F

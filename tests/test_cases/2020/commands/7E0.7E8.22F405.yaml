@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F405
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_COOLANT_TEMP: 39
+  response: 7E80462F4054F
+- expected_values:
+    RR_RANGE_ROVER_COOLANT_TEMP: 105
+  response: 7E80462F40591

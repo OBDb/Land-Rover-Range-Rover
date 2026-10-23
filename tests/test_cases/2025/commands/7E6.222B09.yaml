@@ -1,0 +1,8 @@
+command_id: 7E6.222B09
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_RR_WHL_SPD: 0
+  response: 7EE04622B0900
+- expected_values:
+    RR_RANGE_ROVER_RR_WHL_SPD: 61
+  response: 7EE04622B093D
