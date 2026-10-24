@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     RR_RANGE_ROVER_DIST_SINCE_CLR: 1357
   response: 7E80562F431054D
+- expected_values:
+    RR_RANGE_ROVER_DIST_SINCE_CLR: 1365
+  response: 7E80562F4310555

@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     RR_TT_RL: 24
   response: 75904622A0C4A
+- expected_values:
+    RR_TT_RL: 26
+  response: 75904622A0C4C

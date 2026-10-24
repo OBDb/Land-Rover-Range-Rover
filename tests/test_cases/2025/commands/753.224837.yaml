@@ -4,5 +4,5 @@ test_cases:
     RR_DCDC_HV_V_IN: 0
   response: 75B056248370000
 - expected_values:
-    RR_DCDC_HV_V_IN: 96
-  response: 75B056248370060
+    RR_DCDC_HV_V_IN: 97
+  response: 75B056248370061
