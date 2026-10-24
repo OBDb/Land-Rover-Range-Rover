@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     RR_RANGE_ROVER_ODO: 26264
   response: 7E80662DD01006698
+- expected_values:
+    RR_RANGE_ROVER_ODO: 26273
+  response: 7E80662DD010066A1

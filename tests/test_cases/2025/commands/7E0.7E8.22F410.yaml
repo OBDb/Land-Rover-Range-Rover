@@ -4,8 +4,8 @@ test_cases:
     RR_RANGE_ROVER_MAF: 0
   response: 7E80562F4100000
 - expected_values:
-    RR_RANGE_ROVER_MAF: 15.33
-  response: 7E80562F41005FD
+    RR_RANGE_ROVER_MAF: 35.83
+  response: 7E80562F4100DFF
 - expected_values:
     RR_RANGE_ROVER_MAF: 55.52
   response: 7E80562F41015B0

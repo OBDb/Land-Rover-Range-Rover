@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     RR_TP_FR: 2.63616
   response: 7590562207700C0
+- expected_values:
+    RR_TP_FR: 2.66362
+  response: 7590562207700C2
+- expected_values:
+    RR_TP_FR: 2.69108
+  response: 7590562207700C4

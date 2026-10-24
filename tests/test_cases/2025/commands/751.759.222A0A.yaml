@@ -4,29 +4,5 @@ test_cases:
     RR_TT_FL: 15
   response: 75904622A0A41
 - expected_values:
-    RR_TT_FL: 16
-  response: 75904622A0A42
-- expected_values:
-    RR_TT_FL: 17
-  response: 75904622A0A43
-- expected_values:
-    RR_TT_FL: 18
-  response: 75904622A0A44
-- expected_values:
-    RR_TT_FL: 19
-  response: 75904622A0A45
-- expected_values:
-    RR_TT_FL: 20
-  response: 75904622A0A46
-- expected_values:
-    RR_TT_FL: 21
-  response: 75904622A0A47
-- expected_values:
-    RR_TT_FL: 22
-  response: 75904622A0A48
-- expected_values:
-    RR_TT_FL: 23
-  response: 75904622A0A49
-- expected_values:
-    RR_TT_FL: 24
-  response: 75904622A0A4A
+    RR_TT_FL: 26
+  response: 75904622A0A4C

@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     RR_TT_FR: 25
   response: 75904622A0B4B
+- expected_values:
+    RR_TT_FR: 27
+  response: 75904622A0B4D

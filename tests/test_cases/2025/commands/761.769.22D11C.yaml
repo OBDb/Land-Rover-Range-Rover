@@ -4,5 +4,5 @@ test_cases:
     RR_RANGE_ROVER_D11C_RAW: 61
   response: 7690462D11C3D
 - expected_values:
-    RR_RANGE_ROVER_D11C_RAW: 93
-  response: 7690462D11C5D
+    RR_RANGE_ROVER_D11C_RAW: 104
+  response: 7690462D11C68

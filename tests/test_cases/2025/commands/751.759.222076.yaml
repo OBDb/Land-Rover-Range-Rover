@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     RR_TP_FL: 2.6087
   response: 7590562207600BE
+- expected_values:
+    RR_TP_FL: 2.63616
+  response: 7590562207600C0
+- expected_values:
+    RR_TP_FL: 2.66362
+  response: 7590562207600C2

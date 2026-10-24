@@ -4,5 +4,5 @@ test_cases:
     RR_RANGE_ROVER_COOLANT_TEMP: 34
   response: 7E80462F4054A
 - expected_values:
-    RR_RANGE_ROVER_COOLANT_TEMP: 94
-  response: 7E80462F40586
+    RR_RANGE_ROVER_COOLANT_TEMP: 100
+  response: 7E80462F4058C
