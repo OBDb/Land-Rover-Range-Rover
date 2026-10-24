@@ -4,5 +4,5 @@ test_cases:
     RR_RANGE_ROVER_ENGINE_OIL_TEMP: 25
   response: 7E8046203F341
 - expected_values:
-    RR_RANGE_ROVER_ENGINE_OIL_TEMP: 72
-  response: 7E8046203F370
+    RR_RANGE_ROVER_ENGINE_OIL_TEMP: 89
+  response: 7E8046203F381

@@ -18,3 +18,6 @@ test_cases:
 - expected_values:
     RR_RANGE_ROVER_GEAR_CMD: 6
   response: 7E904621E1206
+- expected_values:
+    RR_RANGE_ROVER_GEAR_CMD: 70
+  response: 7E904621E1246

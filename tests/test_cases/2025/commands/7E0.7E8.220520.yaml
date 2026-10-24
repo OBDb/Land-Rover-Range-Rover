@@ -4,5 +4,5 @@ test_cases:
     RR_RANGE_ROVER_CHARGE_AIR_TEMP: 17
   response: '7E80462052039'
 - expected_values:
-    RR_RANGE_ROVER_CHARGE_AIR_TEMP: 43
-  response: '7E80462052053'
+    RR_RANGE_ROVER_CHARGE_AIR_TEMP: 53
+  response: 7E8046205205D
