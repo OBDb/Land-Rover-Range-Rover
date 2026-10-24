@@ -4,5 +4,5 @@ test_cases:
     RR_RANGE_ROVER_TQ_CONV_T: 28
   response: 7E904621F1222
 - expected_values:
-    RR_RANGE_ROVER_TQ_CONV_T: 62
-  response: 7E904621F1233
+    RR_RANGE_ROVER_TQ_CONV_T: 76
+  response: 7E904621F123A

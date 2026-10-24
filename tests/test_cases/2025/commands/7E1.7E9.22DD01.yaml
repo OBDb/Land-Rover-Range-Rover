@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     RR_RANGE_ROVER_DD01_RAW: 26250
   response: 7E90662DD0100668A
+- expected_values:
+    RR_RANGE_ROVER_DD01_RAW: 26261
+  response: 7E90662DD01006695
+- expected_values:
+    RR_RANGE_ROVER_DD01_RAW: 26264
+  response: 7E90662DD01006698

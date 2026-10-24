@@ -19,5 +19,8 @@ test_cases:
     RR_RANGE_ROVER_GEAR_ENGAGED: 6
   response: 7E904621E1F06
 - expected_values:
+    RR_RANGE_ROVER_GEAR_ENGAGED: 70
+  response: 7E904621E1F46
+- expected_values:
     RR_RANGE_ROVER_GEAR_ENGAGED: 128
   response: 7E904621E1F80

@@ -10,5 +10,5 @@ test_cases:
     RR_RANGE_ROVER_CAT_TEMP_B1: 498.7
   response: 7E80562F43C150B
 - expected_values:
-    RR_RANGE_ROVER_CAT_TEMP_B1: 558.1
-  response: 7E80562F43C175D
+    RR_RANGE_ROVER_CAT_TEMP_B1: 578.6
+  response: 7E80562F43C182A

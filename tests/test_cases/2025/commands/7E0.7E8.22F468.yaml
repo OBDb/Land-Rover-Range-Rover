@@ -30,3 +30,15 @@ test_cases:
   response: |-
     7E8100A62F468075251
     7E82153FFFFFF000000
+- expected_values:
+    RR_RANGE_ROVER_IAT_1: 48
+    RR_RANGE_ROVER_IAT_2: 53
+  response: |-
+    7E8100A62F46807585D
+    7E8215DFFFFFF000000
+- expected_values:
+    RR_RANGE_ROVER_IAT_1: 49
+    RR_RANGE_ROVER_IAT_2: 42
+  response: |-
+    7E8100A62F468075952
+    7E82157FFFFFF000000

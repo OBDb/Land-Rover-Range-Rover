@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     RR_RANGE_ROVER_WARMUPS: 59
   response: 7E80462F4303B
+- expected_values:
+    RR_RANGE_ROVER_WARMUPS: 60
+  response: 7E80462F4303C
