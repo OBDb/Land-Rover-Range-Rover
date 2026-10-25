@@ -1,8 +1,8 @@
 command_id: '733.229924'
 test_cases:
 - expected_values:
-    RR_AAT: 16
-  response: 73B0462992470
+    RR_AAT: 10
+  response: 73B0462992464
 - expected_values:
     RR_AAT: 29
   response: 73B046299248A
