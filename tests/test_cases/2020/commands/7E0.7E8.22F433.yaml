@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     RR_RANGE_ROVER_BARO: 101
   response: 7E80462F43365
+- expected_values:
+    RR_RANGE_ROVER_BARO: 102
+  response: 7E80462F43366
