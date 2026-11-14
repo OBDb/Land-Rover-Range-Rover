@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_ODO: 115860
+  response: 7E80662DD0101C494

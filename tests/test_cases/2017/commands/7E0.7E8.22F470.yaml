@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.22F470
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_BOOST_A: 31
+  response: |-
+    7E8100D62F470020000
+    7E82103E00000000000

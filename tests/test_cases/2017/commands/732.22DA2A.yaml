@@ -1,0 +1,5 @@
+command_id: 732.22DA2A
+test_cases:
+- expected_values:
+    RR_CONTACT_READY: 1
+  response: 73A0462DA2A02

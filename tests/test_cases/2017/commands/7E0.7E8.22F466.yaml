@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F466
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_MAF_A: 2.125
+    RR_RANGE_ROVER_MAF_B: 2.03125
+  response: |-
+    7E8100862F466030044
+    7E82100410000000000
+- expected_values:
+    RR_RANGE_ROVER_MAF_A: 2.25
+    RR_RANGE_ROVER_MAF_B: 2.25
+  response: |-
+    7E8100862F466030048
+    7E82100480000000000

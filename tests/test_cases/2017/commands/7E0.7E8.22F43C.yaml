@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_CAT_TEMP_B1: 410.2
+  response: 7E80562F43C1196
+- expected_values:
+    RR_RANGE_ROVER_CAT_TEMP_B1: 410.5
+  response: 7E80562F43C1199

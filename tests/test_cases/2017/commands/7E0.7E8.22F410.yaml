@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F410
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_MAF: 4.19
+  response: 7E80562F41001A3
+- expected_values:
+    RR_RANGE_ROVER_MAF: 4.36
+  response: 7E80562F41001B4
+- expected_values:
+    RR_RANGE_ROVER_MAF: 4.55
+  response: 7E80562F41001C7
