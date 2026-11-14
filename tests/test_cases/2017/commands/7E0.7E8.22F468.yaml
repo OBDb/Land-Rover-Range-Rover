@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F468
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_IAT_1: 19
+    RR_RANGE_ROVER_IAT_2: 24
+  response: |-
+    7E8100A62F468033B40
+    7E821FFFFFFFF000000

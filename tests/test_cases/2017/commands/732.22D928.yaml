@@ -1,0 +1,5 @@
+command_id: 732.22D928
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_GEAR_SELECTOR: Park
+  response: 73A0462D92800

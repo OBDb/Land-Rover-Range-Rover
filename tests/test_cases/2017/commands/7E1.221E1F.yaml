@@ -1,0 +1,5 @@
+command_id: 7E1.221E1F
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_GEAR_ENGAGED: 70
+  response: 7E904621E1F46

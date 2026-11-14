@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.22F403
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_FUEL_SYS_B1: ClosedLoop
+    RR_RANGE_ROVER_FUEL_SYS_B2: 2
+  response: 7E80562F4030202

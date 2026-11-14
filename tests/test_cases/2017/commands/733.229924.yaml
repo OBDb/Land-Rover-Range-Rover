@@ -1,0 +1,5 @@
+command_id: '733.229924'
+test_cases:
+- expected_values:
+    RR_AAT: 8
+  response: 73B0462992460

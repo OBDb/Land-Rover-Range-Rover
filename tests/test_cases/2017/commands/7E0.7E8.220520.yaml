@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220520
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_CHARGE_AIR_TEMP: 40
+  response: '7E80462052050'
+- expected_values:
+    RR_RANGE_ROVER_CHARGE_AIR_TEMP: 41
+  response: '7E80462052051'

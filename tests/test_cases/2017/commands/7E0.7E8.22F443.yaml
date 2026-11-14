@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    RR_RANGE_ROVER_LOAD_ABS: 15.68627
+  response: 7E80562F4430028
+- expected_values:
+    RR_RANGE_ROVER_LOAD_ABS: 16.07843
+  response: 7E80562F4430029
+- expected_values:
+    RR_RANGE_ROVER_LOAD_ABS: 16.47059
+  response: 7E80562F443002A
