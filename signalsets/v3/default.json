@@ -80,7 +80,7 @@
   ]},
 { "hdr": "753", "cmd": {"22": "DD02"}, "freq": 1, "dbgfilter": { "to": 2019, "years": [2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
-    {"id": "RR_12V_BATTERY", "path": "Battery", "fmt": { "len": 8, "max": 63.75, "div": 4, "unit": "volts" }, "name": "12V battery", "suggestedMetric": "starterBatteryVoltage"}
+    {"id": "RR_12V_BATTERY", "path": "Battery", "fmt": { "len": 8, "max": 63.75, "div": 4, "nullmax": 63.75, "unit": "volts" }, "name": "12V battery", "suggestedMetric": "starterBatteryVoltage"}
   ]},
 { "hdr": "761", "rax": "769", "dbg": true, "cmd": {"22": "197C"}, "freq": 120,
   "signals": [
