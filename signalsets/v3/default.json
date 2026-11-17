@@ -484,7 +484,7 @@
   "signals": [
     {"id": "RR_RANGE_ROVER_TQ_CONV_T", "path": "Transmission", "fmt": { "len": 8, "max": 470, "min": -40, "mul": 2, "add": -40, "unit": "celsius" }, "name": "Torque converter temperature"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1E68"}, "freq": 60, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2021, 2022, 2023, 2024], "from": 2026 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1E68"}, "freq": 60, "dbgfilter": { "to": 2019, "years": [2021, 2022, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "RR_RANGE_ROVER_1E68_RAW", "path": "Transmission", "fmt": { "len": 8, "max": 255, "nullmin": 0, "unit": "scalar" }, "name": "1E68 raw", "description": "Undecoded transmission DID, neighbour of the gearbox temperature.", "hidden": true}
   ]},
