@@ -13,5 +13,5 @@ test_cases:
     RR_12V_BATTERY: 14.25
   response: 75B0462DD0239
 - expected_values:
-    RR_12V_BATTERY: 63.75
+    RR_12V_BATTERY: null
   response: 75B0462DD02FF
